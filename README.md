@@ -9,14 +9,16 @@ It can also check whether it has any outstanding payment and make the payment ac
 
 Admin users can view the list of books being borrowing and reserved as well as the users with outstanding payment
 
-Tech Stack used:
+
+**Tech Stack used:**
 
 Front-end: HTML, CSS, Django
 
 Back-end: Python, MySQL and MongoDB
 
 
-Notes: There is a need to install crispy-forms and create superuser.
+
+**Notes:** There is a need to *install crispy-forms* and *create superuser*
 Run the following command in order.
 
 pip install django-crispy-forms
