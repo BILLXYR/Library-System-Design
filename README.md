@@ -20,6 +20,9 @@ Notes: There is a need to install crispy-forms and create superuser.
 Run the following command in order.
 
 pip install django-crispy-forms
+
 python3 manage.py makemigrations
+
 python3 manage.py migrate
+
 python3 manage.py createsuperuser
